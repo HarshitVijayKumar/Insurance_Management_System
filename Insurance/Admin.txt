@@ -1,0 +1,16 @@
+
+Policy Number har88517Ha
+name: Harshit
+email: harshitvijay.kumar2021@vitstudent.ac.in
+phone number: 8851748249
+date of birth: 2003-04-11
+age: 19
+Policy Premium: 10000
+
+Policy Number har98104Fi
+name: Finn
+email: harshitvijaykumar@gmail.com
+phone number: 9810464344
+date of birth: 1980-06-11
+age: 42
+Policy Premium: 15000
